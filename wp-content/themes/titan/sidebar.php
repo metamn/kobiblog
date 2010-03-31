@@ -5,7 +5,7 @@
         <?php if ($titan->sideboxCustom() == 'true') : ?>
           <?php echo $titan->sideboxCode(); ?>
         <?php else : ?>
-          <a href="/"><img src="<?php bloginfo('template_url'); ?>/images/sidebar/sidebox.jpg" width="236" height="236" alt="Titan WordPress Theme" /></a>
+          <a href="http://kobi.ro"><img src="http://farm5.static.flickr.com/4033/4478194037_4e4328d423_m.jpg" width="236" height="236" alt="Titan WordPress Theme" /></a>
         <?php endif; ?>
       </div><!--end sidebox-->
     <?php } ?>

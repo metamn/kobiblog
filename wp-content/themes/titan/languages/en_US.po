@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-03-07 10:02-0700\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Drew Strojny <themes@jestro.com>\n"
+"Last-Translator: Csongor Bartus <cs@clair.ro>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,27 +19,27 @@ msgstr ""
 
 #: 404.php:2
 msgid "404: Page Not Found"
-msgstr ""
+msgstr "404: Pagina cautata nu exista"
 
 #: 404.php:4
 msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
-msgstr ""
+msgstr "Va cerem scuze articolul cautat nu exista sau a fost mutat la o alta adresa.  "
 
 #: archive.php:4
 #, php-format
 msgid "Posts from the  &#8216;%s&#8217; Category"
-msgstr ""
+msgstr "Articole din categoria %s"
 
 #: archive.php:6
 #, php-format
 msgid "Posts tagged &#8216;%s&#8217;"
-msgstr ""
+msgstr "Articole cu etichetele %s"
 
 #: archive.php:8
 #: archive.php:10
 #: archive.php:12
 msgid "Archive for"
-msgstr ""
+msgstr "Arhiva pentru"
 
 #: archive.php:8
 #: archive.php:21
@@ -58,26 +58,26 @@ msgstr ""
 #: archive.php:14
 #, php-format
 msgid "Posts by %s"
-msgstr ""
+msgstr "Articole de %s"
 
 #: archive.php:16
 msgid "Blog Archives"
-msgstr ""
+msgstr "Arhiva blog"
 
 #: archive.php:21
 #, php-format
 msgid "%s on"
-msgstr ""
+msgstr "%s la"
 
 #: archive.php:26
 #: index.php:22
 msgid "&laquo; Older Entries"
-msgstr ""
+msgstr "&laquo; Articole mai vechi"
 
 #: archive.php:27
 #: index.php:23
 msgid "Newer Entries &raquo;"
-msgstr ""
+msgstr "Articole noi &raquo;"
 
 #: comments.php:7
 msgid "This post is password protected. Enter the password to view comments."
@@ -85,27 +85,27 @@ msgstr ""
 
 #: comments.php:16
 msgid "No Comments Yet"
-msgstr ""
+msgstr "Fara comentarii"
 
 #: comments.php:16
 msgid "One Comment"
-msgstr ""
+msgstr "Un comentariu"
 
 #: comments.php:16
 msgid "% Comments"
-msgstr ""
+msgstr "% comentarii"
 
 #: comments.php:18
 msgid "Leave One"
-msgstr ""
+msgstr "Parerea Dvs."
 
 #: comments.php:25
 msgid "&laquo; Older Comments"
-msgstr ""
+msgstr "&laquo; Comentarii mai vechi"
 
 #: comments.php:26
 msgid "Newer Comments &raquo;"
-msgstr ""
+msgstr "Comentarii noi &raquo;"
 
 #: comments.php:29
 msgid "Trackbacks &amp; Pingbacks"
@@ -114,44 +114,44 @@ msgstr ""
 #: comments.php:35
 #: comments.php:46
 msgid "Comments are closed."
-msgstr ""
+msgstr "Comentariile sunt inchise."
 
 #: comments.php:41
 msgid "No comments yet"
-msgstr ""
+msgstr "Fara comentarii"
 
 #: comments.php:58
 msgid "Leave a Reply"
-msgstr ""
+msgstr "Parerea Dvs."
 
 #: comments.php:60
 msgid "You must be"
-msgstr ""
+msgstr "Trebuie sa "
 
 #: comments.php:60
 msgid "logged in"
-msgstr ""
+msgstr "va inregistrati"
 
 #: comments.php:60
 msgid "to post a comment."
-msgstr ""
+msgstr "pentru a lasa comentarii."
 
 #: comments.php:65
 msgid "Logged in as"
-msgstr ""
+msgstr "Inregistrat ca"
 
 #: comments.php:65
 msgid "Log out &raquo;"
-msgstr ""
+msgstr "Iesire din cont &raquo;"
 
 #: comments.php:68
 msgid "Name:"
-msgstr ""
+msgstr "Nume:"
 
 #: comments.php:68
 #: comments.php:72
 msgid "(required)"
-msgstr ""
+msgstr "(obligatoriu)"
 
 #: comments.php:72
 msgid "Email:"
@@ -159,28 +159,28 @@ msgstr ""
 
 #: comments.php:76
 msgid "Website:"
-msgstr ""
+msgstr "Adresa web:"
 
 #: comments.php:81
 msgid "Comment:"
-msgstr ""
+msgstr "Parerea Dvs:"
 
 #: comments.php:84
 msgid "<strong>Note:</strong> XHTML is allowed. Your email address will <strong>never</strong> be published."
-msgstr ""
+msgstr "<strong>Observatii:</strong> Puteti folosi sintaxa XHTML. Adresa Dvs. de email <strong>nu va fi publicat</strong> niciodata."
 
 #: comments.php:85
 msgid "Subscribe to this comment feed via RSS"
-msgstr ""
+msgstr "Inscriere prin RSS la aceasta discutie"
 
 #: comments.php:88
 msgid "Submit Comment"
-msgstr ""
+msgstr "Trimitere comentariu"
 
 #: footer.php:7
 #: functions/titan-extend.php:213
 msgid "About"
-msgstr ""
+msgstr "Despre Kobi.ro"
 
 #: footer.php:11
 msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Titan Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
@@ -197,15 +197,15 @@ msgstr ""
 #: footer.php:21
 #: sidebar.php:30
 msgid "Categories"
-msgstr ""
+msgstr "Categorii"
 
 #: footer.php:29
 msgid "Flickr"
-msgstr ""
+msgstr "Kobi screenshots"
 
 #: footer.php:47
 msgid "Search"
-msgstr ""
+msgstr "Cautare"
 
 #: footer.php:54
 msgid "Copyright"
@@ -221,18 +221,18 @@ msgstr ""
 
 #: header.php:9
 msgid "Page Not Found |"
-msgstr ""
+msgstr "Pagina cautata nu exista |"
 
 #: header.php:11
 #: search.php:3
 #: search.php:25
 #, php-format
 msgid "Search results for '%s'"
-msgstr ""
+msgstr "Rezultatele cautarii pentru %s"
 
 #: header.php:48
 msgid "Follow:"
-msgstr ""
+msgstr "Ne puteti urmarii prin:"
 
 #: header.php:49
 msgid "RSS"
@@ -248,7 +248,7 @@ msgstr ""
 
 #: header.php:66
 msgid "Home"
-msgstr ""
+msgstr "Pagina principala"
 
 #: index.php:6
 #: search.php:7
@@ -259,56 +259,56 @@ msgstr ""
 #: search.php:9
 #, php-format
 msgid "by %s"
-msgstr ""
+msgstr "de %s"
 
 #: index.php:12
 #: search.php:12
 #: single.php:12
 msgid "read more..."
-msgstr ""
+msgstr "detalii..."
 
 #: index.php:13
 #: page.php:7
 #: search.php:13
 #: single.php:13
 msgid "Edit This"
-msgstr ""
+msgstr "Modificare"
 
 #: index.php:17
 msgid "Leave a comment"
-msgstr ""
+msgstr "Asteptam parerea Dvs."
 
 #: index.php:17
 msgid "1 Comment"
-msgstr ""
+msgstr "1 comentariu"
 
 #: index.php:17
 msgid "% Comment"
 msgid_plural "% Comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 comentariu"
+msgstr[1] "% comentarii"
 
 #: search.php:27
 #, php-format
 msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
-msgstr ""
+msgstr "Nu am gasit nici un articol pentru \"%s\". Va rugam incercati din nou"
 
 #: sidebar.php:22
 msgid "Recent Articles"
-msgstr ""
+msgstr "Articole recente"
 
 #: sidebar.php:36
 msgid "Archives"
-msgstr ""
+msgstr "Arhive"
 
 #: single.php:8
 #, php-format
 msgid "by %s on"
-msgstr ""
+msgstr "de %s la"
 
 #: single.php:17
 msgid "From"
-msgstr ""
+msgstr "De la"
 
 #: functions/comments.php:10
 msgid "permalink"
@@ -316,7 +316,7 @@ msgstr ""
 
 #: functions/comments.php:13
 msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
-msgstr ""
+msgstr "<em><strong>Informatii:</strong> Comentariul Dvs. este in curs de aprobare.</em>"
 
 #: functions/titan-admin.php:60
 msgid " settings saved!"
