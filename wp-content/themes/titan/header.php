@@ -53,7 +53,7 @@
       <div class="wrapper clear">
         <dl>
           <dt><?php _e('Follow:', 'titan') ?></dt>
-            <dd><a class="rss" href="<?php bloginfo('rss2_url'); ?>"><?php _e('RSS', 'titan') ?></a></dd>
+            <dd><a class="rss" href="http://feeds.feedburner.com/KobiBlog"><?php _e('RSS', 'titan') ?></a></dd>
             <?php if ($titan->emailToggle() == 'true') : else : ?>
               <dd><a class="email" href="<?php if ($titan->feedEmail() !== '') echo $titan->feedEmail(); else echo "#"; ?>"><?php _e('Email', 'titan') ?></a></dd>
             <?php endif; ?>
