@@ -26,6 +26,7 @@ Tags: fixed-width, two-columns, white, brown, right-sidebar, threaded-comments, 
 
 */
 
+
 /* Import Stylesheets
 -----------------------------------------------------------*/
 @import url("stylesheets/master.css");
@@ -43,3 +44,5 @@ Tags: fixed-width, two-columns, white, brown, right-sidebar, threaded-comments, 
 /* Make all custom CSS changes in a Child Theme. Any custom 
 changes you make here will not be overidden when you upgrade the theme.
 -----------------------------------------------------------*/
+
+

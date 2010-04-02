@@ -1,0 +1,15 @@
+ul.subpages-toc {
+  margin: 2em 0;
+  list-style-type: none;  
+}
+li.pagenav {
+  font-size: larger;
+  font-weight: bold;
+  background: none !important;
+  padding: 0 !important;
+}
+li.pagenav ul li {
+  font-size: normal;
+  font-weight: normal;
+}
+

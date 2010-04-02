@@ -25,6 +25,7 @@
 
   <!--Stylesheets-->
   <link href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" rel="stylesheet" />
+  <link href="<?php bloginfo('stylesheet_directory'); ?>/custom.css" type="text/css" media="screen" rel="stylesheet" />
   <!--[if lt IE 8]>
     <link rel="stylesheet" type="text/css" media="screen" href="<?php bloginfo('template_url'); ?>/stylesheets/ie.css" />
   <![endif]-->
