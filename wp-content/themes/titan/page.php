@@ -1,5 +1,16 @@
 <?php get_header(); ?>
     <?php if (have_posts()) : ?>
+    
+    <div class="breadcrumb">
+    <?php
+    if(function_exists('bcn_display'))
+    {
+	    bcn_display();
+    }
+    ?>
+    </div>
+
+    
     <?php while (have_posts()) : the_post(); ?>
       <h1 class="pagetitle"><?php the_title(); ?></h1>
       <div class="entry page clear">
